@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ProductsApi.Contexts;
+using ProductsApi.Core;
 using ProductsApi.Models;
 
 namespace ProductsApi.Services;

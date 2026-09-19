@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using ProductsApi;
 using ProductsApi.Contexts;
+using ProductsApi.Core;
 using ProductsApi.Models;
 using ProductsApi.Services;
 
